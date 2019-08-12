@@ -1,5 +1,3 @@
-package Game_2048;
-
 import java.awt.*;
 
 public class Tile {

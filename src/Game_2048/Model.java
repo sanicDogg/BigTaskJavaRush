@@ -1,5 +1,3 @@
-package Game_2048;
-
 import java.util.*;
 
 public class Model {

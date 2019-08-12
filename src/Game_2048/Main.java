@@ -1,5 +1,3 @@
-package Game_2048;
-
 import javax.swing.*;
 
 public class Main {

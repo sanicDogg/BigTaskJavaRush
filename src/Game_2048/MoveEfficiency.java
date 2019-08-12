@@ -1,5 +1,3 @@
-package Game_2048;
-
 public class MoveEfficiency implements Comparable<MoveEfficiency> {
     private int numberOfEmptyTiles;
     private int score;
