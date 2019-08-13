@@ -1,6 +1,6 @@
 package MVC.view;
 
-import com.javarush.task.task36.task3608.bean.User;
+//import com.javarush.task.task36.task3608.bean.User;
 import MVC.controller.Controller;
 import MVC.model.ModelData;
 
